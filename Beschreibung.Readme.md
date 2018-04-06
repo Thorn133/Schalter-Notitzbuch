@@ -1,5 +1,4 @@
-
-# Schalter
+# Schalter Notizbuch
 
 Dies ist dafür gedacht das man Modelle die man nicht so oft fliegt oder die Viele Funktionen haben um sich die Schalter zu merken, dass macht die 
 App. Man muss alles erst erstellen dann sieht man es auf dem Sender. Zusätzlich ist es möglich Modellspezifisch Modelle zu kopieren und zu bearbeiten.
