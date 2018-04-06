@@ -7,9 +7,7 @@ local frameForms = {}
 local defaultText = ""
 local folder = "Apps/Modelle/"
 local extension = ".txt"
-local version = "1.2"
-local debugmem =0
-local mem = 0
+local version = "1.3"
 
 --------------------------------------------------------------------------------
 local function showPage(window)
@@ -553,11 +551,6 @@ local function loop()
 			timeB5 = nil
 			form.setButton(5, formID == 1 and "L" or ":down", formID ~= 1 and ENABLED or config:len() > 0 and ENABLED or DISABLED)
 		end
-	end
-	debugmem = math.modf(collectgarbage('count'))
-	if (mem < debugmem) then
-		mem = debugmem
-		print("max Storage: "..debugmem.."K")
 	end
 end
 
