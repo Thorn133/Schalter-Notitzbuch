@@ -10,4 +10,4 @@ Nähre Information siehe Link
 http://www.jetiforum.de/index.php/lua-fuer-die-dc-ds-16-24/7390-liste-ecke-fuer-lua-apps?start=42
 
 
-![Menu-picture] (https://raw.githubusercontent.com/Thorn133/Schalter-Notitzbuch/master/Bilder/3.jpg) ![Display-picture] (https://raw.githubusercontent.com/Thorn133/Schalter-Notitzbuch/master/Bilder/1.jpg) ![Display-picture](https://raw.githubusercontent.com/Thorn133/Schalter-Notitzbuch/master/Bilder/2.jpg)
+![Menu-picture](https://raw.githubusercontent.com/Thorn133/Schalter-Notitzbuch/master/Bilder/3.jpg)![Display-picture] (https://raw.githubusercontent.com/Thorn133/Schalter-Notitzbuch/master/Bilder/1.jpg)![Display-picture](https://raw.githubusercontent.com/Thorn133/Schalter-Notitzbuch/master/Bilder/2.jpg)
